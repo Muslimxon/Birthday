@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@100..800&family=Edu+VIC+WA+NT+Beginner:wght@400..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+
+}
+.part{
+    width: 300px;
+    height:400px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 15px 5px 15px 5px  yellow;
+}
+.part h1{
+    font-size:40px;
+}
